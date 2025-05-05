@@ -5,7 +5,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   border: none;
   max-width: 100%;
 }
@@ -20,19 +20,19 @@
   justify-content: space-between;
 }
 
-li{
+li {
   display: inline-block;
   list-style-type: none;
   margin: 0 12px;
   padding-right: 10px;
 }
 
-li a{
+li a {
   text-decoration: none;
-  color:black;
+  color: black;
 }
 .hero {
-  background-image: url('/images/hero.png');
+  background-image: url("/images/hero.png");
   height: 500px;
   top: 219px;
   left: 103px;
@@ -54,25 +54,25 @@ button {
   margin-top: 20px;
   margin-left: 50px;
   padding: 12px 30px;
-  background: #52645E;
+  background: #52645e;
   color: white;
 }
 
-.about{
+.about {
   background: whitesmoke;
   height: 450px;
 }
 
-.about h1{
+.about h1 {
   text-align: center;
   font-weight: 800;
   color: #000;
 }
 
-.about p{
-  text-align:center;
-  font-family:cursive;
-  font-weight:400;
+.about p {
+  text-align: center;
+  font-family: cursive;
+  font-weight: 400;
   font-size: 20px;
 }
 
@@ -101,7 +101,7 @@ h2 {
   background-color: white;
   padding: 25px;
   border-radius: 40px;
-  color:gray;
+  color: gray;
 }
 
 .journey-image {
@@ -116,13 +116,13 @@ h3 {
   color: black;
 }
 
-.goals{
+.goals {
   background-color: whitesmoke;
   height: 450px;
 }
 
 .goals h1 {
-  text-align:center;
+  text-align: center;
   font-weight: 800;
   color: black;
 }
